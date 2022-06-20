@@ -1,3 +1,1 @@
-hello github
-hello
-# trying new commit
+this is an intial project on github 
